@@ -1,0 +1,7 @@
+{
+    "name": "DeliveryZones",
+    "version": "0.0.0",
+    "private": true,
+    "main": "./DeliveryZones.js"
+  }
+  

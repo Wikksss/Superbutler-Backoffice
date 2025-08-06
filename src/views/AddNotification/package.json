@@ -1,0 +1,6 @@
+{
+  "name": "AddNotification",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./AddNotification.js"
+}

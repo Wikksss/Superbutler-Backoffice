@@ -1,0 +1,6 @@
+{
+  "name": "Toppings",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./Toppings.js"
+}

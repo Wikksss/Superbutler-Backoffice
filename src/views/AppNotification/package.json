@@ -1,0 +1,6 @@
+{
+  "name": "AppNotification",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./AppNotification.js"
+}

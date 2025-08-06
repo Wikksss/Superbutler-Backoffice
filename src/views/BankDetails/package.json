@@ -1,0 +1,7 @@
+{
+    "name": "BankDetails",
+    "version": "0.0.0",
+    "private": true,
+    "main": "./BankDetails.js"
+  }
+  

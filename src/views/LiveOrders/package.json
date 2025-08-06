@@ -1,0 +1,6 @@
+{
+  "name": "LiveOrders",
+  "version": "1.0.0",
+  "private": true,
+  "main": "./LiveOrders.js"
+}

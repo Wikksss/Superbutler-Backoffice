@@ -1,0 +1,7 @@
+{
+    "name": "Cuisines",
+    "version": "0.0.0",
+    "private": true,
+    "main": "./Cuisines.js"
+  }
+  

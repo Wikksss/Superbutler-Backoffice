@@ -1,0 +1,6 @@
+body[style*="overflow: hidden;"] .container-fluid{
+    padding: 0px!important;
+  }
+  body[style*="overflow: hidden;"] main.main{
+    margin-top: 0px;
+  }

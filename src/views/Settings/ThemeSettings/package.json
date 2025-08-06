@@ -1,0 +1,7 @@
+{
+    "name": "ThemeSettings",
+    "version": "0.0.0",
+    "private": true,
+    "main": "./ThemeSettings.js"
+  }
+  

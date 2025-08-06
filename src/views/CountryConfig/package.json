@@ -1,0 +1,7 @@
+{
+    "name": "CountryConfig",
+    "version": "0.0.0",
+    "private": true,
+    "main": "./CountryConfig.js"
+  }
+  

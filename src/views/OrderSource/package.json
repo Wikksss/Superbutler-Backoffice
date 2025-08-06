@@ -1,0 +1,6 @@
+{
+  "name": "OrderSource",
+  "version": "1.0.0",
+  "private": true,
+  "main": "./OrderSource.js"
+}

@@ -1,0 +1,7 @@
+{
+    "name": "CustomPages",
+    "version": "0.0.0",
+    "private": true,
+    "main": "./CustomPages.js"
+  }
+  
